@@ -1,7 +1,11 @@
 # 720panoMP4-to-cubemap
 
 
-pip install PyQt5 opencv-python numpy
+
+ 环境安装：
+ pip install PyQt5
+ pip install numpy
+ pip install opencv-python  //如果安装失败，安装编译好的库： pip install --only-binary=:all: opencv-python
 
 VSCODE start
 
